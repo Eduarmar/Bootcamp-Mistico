@@ -1,12 +1,11 @@
 
 body{
-  background-color: #131421;
+  background-color: #BCD9D7;
 }
 
 /*header*/
 .header{
   height: 750px;
-  background-image: url(../images/BG.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
